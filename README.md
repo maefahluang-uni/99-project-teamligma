@@ -1,8 +1,11 @@
-# Project -title
-explain your project here
+# VR Game For Education
+In this project, we will make VR about education or use in science experiments by turning experiments into VR games to make them easy to use,   
+without having to spend money or resources in one experiment in real life. But we put it in VR so that we didn't have to spend money or waste resources on experiments,   
+so this project was born.  
 ## Members
-list out your member ID and name.
-
+6431503064 Sirawich KongUm   
+6431503088 Thanadol Nicharoj   
+6431503093 Panyaphat Pumsawai
 ## Instruction
 You need to create skeleton of your project's development. It does not necessary include the complete source code. Please follow instructions below:
 - Edit readme file that briefly explains your project and details of members.​ 
