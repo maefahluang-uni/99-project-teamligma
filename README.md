@@ -3,8 +3,8 @@ In this project, we will make VR about education or use in science experiments b
 without having to spend money or resources in one experiment in real life. But we put it in VR so that we didn't have to spend money or waste resources on experiments,
 so this project was born.
 ## Members
-6431503064 Sirawich KongUm
-6431503088 Thanadol Nicharoj
+6431503064 Sirawich KongUm   
+6431503088 Thanadol Nicharoj   
 6431503093 Panyaphat Pumsawai
 ## Instruction
 You need to create skeleton of your project's development. It does not necessary include the complete source code. Please follow instructions below:
